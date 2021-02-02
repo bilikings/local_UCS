@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5b9dc92d-0648-429d-a586-55ec25e77cdc" name="kali">
+        <fileTransfer accessType="SFTP" host="192.168.3.33" port="22" sshConfigId="d3c66ef1-ca89-4856-8d4e-ff2b6657899e" sshConfig="root@192.168.3.33:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
